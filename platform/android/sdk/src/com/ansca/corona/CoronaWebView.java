@@ -9,6 +9,7 @@
 
 package com.ansca.corona;
 
+import androidx.annotation.RequiresApi;
 import android.content.Context;
 import android.graphics.Color;
 import android.webkit.WebView;
